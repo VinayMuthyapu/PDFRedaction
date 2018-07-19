@@ -1,0 +1,12 @@
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\bin\Debug\PDFRedaction.exe.config
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\bin\Debug\PDFRedaction.exe
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\bin\Debug\PDFRedaction.pdb
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\bin\Debug\HtmlAgilityPack.dll
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\bin\Debug\Optional.dll
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\bin\Debug\HtmlAgilityPack.xml
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\bin\Debug\Optional.xml
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\obj\Debug\PDFRedaction.csprojResolveAssemblyReference.cache
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\obj\Debug\PDFRedaction.csproj.CoreCompileInputs.cache
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\obj\Debug\PDFRedaction.exe
+C:\Users\vinaym\source\repos\PDFRedaction\PDFRedaction\obj\Debug\PDFRedaction.pdb
